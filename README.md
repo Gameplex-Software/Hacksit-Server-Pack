@@ -16,7 +16,7 @@ The easiest way to download the server pack, visit our github repository for the
 
 ## Step 2 - Setting up the pack
 
-The setup process is very simple, un-zipping the release file will give you a filder called "Haxit Server". Place this wherever you want and open it up.
+The setup process is very simple, un-zipping the release file will give you a folder called "Haxit Server". Place this wherever you want and open it up.
 
 <img width="116" alt="Screen Shot 2022-01-29 at 9 07 19 AM" src="https://user-images.githubusercontent.com/34868944/151664197-c6d844c8-11c6-4893-ba8b-80c37ce44341.png">
 
