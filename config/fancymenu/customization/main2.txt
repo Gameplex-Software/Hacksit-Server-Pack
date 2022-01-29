@@ -8,20 +8,10 @@ customization-meta {
 customization {
   path = resources/minecraft-make-book-and-quill-step-1.png
   orientation = mid-right
-  x = -119
+  x = -122
   width = 119
   action = addtexture
   y = -97
-  height = 100
-}
-
-customization {
-  path = resources/mainmenu/title2.png
-  orientation = top-centered
-  x = -186
-  width = 373
-  action = addtexture
-  y = 0
   height = 100
 }
 
@@ -51,20 +41,20 @@ customization {
   orientation = mid-right
   shadow = false
   centered = false
-  x = -80
+  x = -90
   action = addtext
-  y = -66
+  y = -76
   scale = 1.0
   value = Tristan Poland
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-right
   buttonaction = opencustomgui
-  x = 850
+  x = -113
   width = 100
   action = addbutton
-  y = 278
+  y = -22
   label = About Developer
   value = about-dev
   height = 20
@@ -72,14 +62,24 @@ customization {
 
 customization {
   showname = false
-  orientation = top-left
+  orientation = mid-right
   crouching = false
-  x = 861
+  x = -106
   slim = false
   action = addentity
-  y = 273
+  y = -26
   scale = 30
   playername = TristanPoland
   parrot = false
+}
+
+customization {
+  path = resources/mainmenu/title3.png
+  orientation = top-centered
+  x = -128
+  width = 244
+  action = addtexture
+  y = -13
+  height = 124
 }
 
