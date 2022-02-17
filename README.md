@@ -42,9 +42,6 @@ Your server will now start up, if not make sure you have Java 8 installed and se
 
 <p>Super light Tech based mod pack including machinery chisel mods, and add-ons, dynamic trees, and adds the ability to got to space and other planets using the advanced rocketry mod. Use the open computers mod to make a datacenter. make a power plant or factory with immersive engineering, or do all of it at once! Explore strange planets and new realms, all in a high performance modpack.</p>
 
-<h2>Create your own server!</h2>
-<p>Our server pack is available for download with full setup instructions at&nbsp;<a title="https://github.com/Gameplex-Software/Haxit-Server-Pack" href="https://github.com/Gameplex-Software/Haxit-Server-Pack">https://github.com/Gameplex-Software/Haxit-Server-Pack</a></p>
-
 
 <h2>Announcements</h2>
 
