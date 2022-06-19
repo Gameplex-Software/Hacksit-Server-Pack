@@ -35,7 +35,7 @@ Your server will now start up, if not make sure you have Java 8 installed and se
 <h2><span style="color: #ff0000;">NOT A HACKED CLIENT</span></h2>
 <p><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">Please see our other project: Nexus Client&nbsp;</span></span></p>
 
-<p><img src="https://gameplex-software.github.io/CDN/hosted/haxit/banner.png" alt="Haxit Banner Image" /></p>
+<p><img src="https://gameplexsoftware.com/CDN/hosted/haxit/banner.png" alt="Haxit Banner Image" /></p>
 
 
 <h2>About</h2>
@@ -53,4 +53,4 @@ Your server will now start up, if not make sure you have Java 8 installed and se
 
 <p><span style="font-size: 2.8rem; font-weight: 400;">Other modpacks</span></p>
 
-<p>to see my other modpacks please visit my website here:&nbsp;<a href="https://gameplex-software.github.io/gxhub/">https://gameplex-software.github.io/gxhub/</a></p>
+<p>to see my other modpacks please visit my website here:&nbsp;<a href="https://gameplexsoftware.com/gxhub/">https://gameplexsoftware.com/gxhub/</a></p>
