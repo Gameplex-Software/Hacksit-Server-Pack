@@ -1,7 +1,7 @@
 # Haxit-Server-Pack
 Official server hosting system for the Haxit modpack
 
-##Create your very own Haxit server!
+## Create your very own Haxit server!
 
 # Running a Gameplex software server pack
 
